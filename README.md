@@ -4,3 +4,6 @@ La práctica se realiza sobre cuatro supuestos
 1.- Docker
 
 [www.luisllamas.es](https://www.luisllamas.es)
+
+[Enlaces internos](/como-usar-enlaces-en-markdown/#enlaces-internos)
+
